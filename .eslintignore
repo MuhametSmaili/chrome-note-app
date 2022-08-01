@@ -8,3 +8,4 @@ webpack.*.js
 tsconfig.json
 manifest.json
 *.svg
+commitlint.config.js
